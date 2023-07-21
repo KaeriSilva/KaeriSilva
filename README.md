@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KaeriSilva
-- 👀 I’m interested in ... AI, Machine Learning, Deep learning, mobile apps, web dev
-- 🌱 I’m currently learning ... Python intermediate
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... AI, Machine Learning, Deep learning, all about data science
 - 📫 How to reach me ... kaerisilva@gmail.com
 
 <!---
